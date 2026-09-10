@@ -138,9 +138,8 @@ export default function UIUXProjects() {
           className="hero-fade mt-6 max-w-2xl text-lg leading-8 text-zinc-600"
           style={{ animationDelay: "220ms" }}
         >
-          Interface and website work across Figma and front-end polish —
-          clean layouts, visual hierarchy, and responsive experiences that
-          hold up on real devices.
+          Website and interface designs created in Figma, including layouts, 
+          prototypes, and responsive design concepts.
         </p>
       </section>
 
