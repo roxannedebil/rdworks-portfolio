@@ -96,8 +96,8 @@ export default function FinanceTracker() {
               className="hero-fade mt-6 max-w-xl text-lg leading-8 text-zinc-600"
               style={{ animationDelay: "220ms" }}
             >
-              A personal finance app for managing accounts, transactions,
-              budgets, and reports in one clean dashboard.
+              A personal finance app designed to make it easier to track accounts, 
+              income, expenses, budgets, and financial reports in one place.
             </p>
           </div>
 
