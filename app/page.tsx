@@ -629,7 +629,7 @@ export default function Home() {
 
       <footer className="border-t border-zinc-200">
         <div className="mx-auto flex max-w-6xl flex-col gap-2 px-4 py-8 text-sm text-zinc-500 sm:flex-row sm:items-center sm:justify-between sm:px-6">
-          <p>© 2026 Roxanne Debil</p>
+          <p>© 2026 Roxanne Alyssandra Debil</p>
           <p>Web Designer · UI/UX Designer · Systems Analyst · QA Tester</p>
         </div>
       </footer>
