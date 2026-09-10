@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Roxanne Debil | Web Designer",
+  title: "Roxanne Debil | Portfolio",
   description: "Web Designer and UI/UX Designer portfolio of Roxanne Debil.",
 };
 
